@@ -1,0 +1,9 @@
+batch_size: 16
+height: 32
+learning_rate: 0.0005
+max_text_length: 21
+model_path: Models/word_recog\202409122032
+train_epochs: 50
+train_workers: 20
+vocab: EA"r9xm4'h.L/JX52QCG,0tNq?i(j!eDp3lU7#1-Mdb+Zf&z;vHKgcusnIa*PoOVyTYBFkWw:6S)8R
+width: 128
